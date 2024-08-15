@@ -1,4 +1,3 @@
-|[logo](banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.webp)
 <h1 align="center">Hi 👋, I'm Rab Nawaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
