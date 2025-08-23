@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rab Nawaz</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from Pakistan 🇵🇰
-I build full-stack web applications using React, Node.js, Express, and MongoDB 🚀</h3>
+ I build full-stack web applications using React.js, Node.js, Express.js, and MongoDB 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabnawazz-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rabnawazz-khan" /> </p>
 
