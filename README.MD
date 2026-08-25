@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rab Nawaz</h1>
 <h3 align="center">A passionate Frontend Web Developer from Pakistan 🇵🇰  
-I build clean, responsive, and user-friendly web interfaces using React.js🚀</h3>
+I build clean, responsive, and user-friendly web interfaces using React.js next js nad angular🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabnawazz-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rabnawazz-khan" /> </p>
 
 - 📫 How to reach me **rabnawazz2006@gmail.com**
